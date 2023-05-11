@@ -2,6 +2,7 @@
   <img src="https://github.com/Erfan-Akhteh/Erfan-Akhteh/blob/main/name.svg" alt="Marton Lederer" />
 </h1>
 
+My Name is Erfan Akhteh
 ===============================
 
 Front End Developer
